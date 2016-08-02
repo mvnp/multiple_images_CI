@@ -5,6 +5,6 @@ Codeigniter :::::: Upload de várias imagens simultaneamente.
 Faz upload e registra todas as imagens no banco de dados.
 
 ### Arquivos
--- views         ----> index.php
--- controller    ----> Upload.php
--- model			----> Arquivo_model.php
+- views         ----> index.php
+- controller    ----> Upload.php
+- model			----> Arquivo_model.php
